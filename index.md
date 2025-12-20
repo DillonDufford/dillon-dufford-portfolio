@@ -12,6 +12,7 @@ I specialize in R, SQL, Python, and Spreadsheets, and I enjoy transforming raw d
 **Tools:** Python, Pandas, Matplotlib, Seaborn, Sentiment Analysis, API Integration, Git  
 
 🔗 **GitHub Repository**
+https://github.com/DillonDufford/investor_sentiment_analysis
 
 **Highlights:**  
 - Automated data collection of stock prices and financial news  
@@ -25,8 +26,11 @@ I specialize in R, SQL, Python, and Spreadsheets, and I enjoy transforming raw d
 ### 🚴 Cyclistic Bike-Share Case Study  
 **Tools:** R, RStudio, Data Wrangling, Visualization, Reporting  
 
-🔗 **GitHub Repository**  
+🔗 **GitHub Repository**
+https://github.com/DillonDufford/cyclistic-bike-share-case-study
+
 📄 **View Final PDF Report**
+https://github.com/DillonDufford/cyclistic-bike-share-case-study/blob/main/Cyclistic_Case_Study_Report_Dillon_Dufford_2025.pdf
 
 **Highlights:**  
 - Cleaned and analyzed over 4 million ride records  
